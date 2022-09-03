@@ -1,0 +1,1 @@
+This is my second official README file. Right now I am learning about shell permissions. Thank you for not quitting!
