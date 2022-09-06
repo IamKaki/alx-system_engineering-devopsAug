@@ -1,0 +1,1 @@
+This is another project for the second week of probation. In here i have learned about shell expansions, variables, aliases and shell arithmetics. Above all else I especially lie Alias command since it will make my life easier as a programmer. Cheers to ALX.
